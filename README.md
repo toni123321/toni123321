@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Antonio Takev
-- 👀 I’m interested in programming and sports
-- 🌱 I’m currently learning ICT and Software at Fontys University of Applied Sciences
-- 💞️ I’m looking to collaborate on different sotware projects
+- 👋 Hi, I’m Antonio Takev or just Toni
+- 👀 I’m interested in Software Engineering, DevOps, and sports
+- 🌱 I’m currently a last year Bachelor student at Fontys UAS
+- 💻 I am working as a Full-stack Software developer
+- 💞️ I’m looking to collaborate on different Software projects
 - 📫 How to reach me: via email: tonitakev@gmail.com
 
 <!---
