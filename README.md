@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonio Takev or just Toni
 - 👀 I’m interested in Software Engineering, DevOps, and sports
-- 🌱 I’m currently a last year Bachelor student at Fontys UAS
+- 🌱 I’m currently a Master's student in Applied IT at Fontys UAS
 - 💻 I am working as a Full-stack Software developer
 - 💞️ I’m looking to collaborate on different Software projects
 - 📫 How to reach me: via email: tonitakev@gmail.com
